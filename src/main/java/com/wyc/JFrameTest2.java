@@ -13,7 +13,6 @@ public class JFrameTest2 {
     public static void main(String[] args) {
         JFrame jf = new JFrame("Frame");
         jf.setBounds(400, 300, 1000, 1300);
-
         JButton jb1 = new JButton("按钮1");
         JButton jb2 = new JButton("按钮2");
         JPanel jp = new JPanel(new FlowLayout());
