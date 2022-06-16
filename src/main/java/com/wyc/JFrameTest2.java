@@ -21,6 +21,6 @@ public class JFrameTest2 {
         jp.add(jb2);
         jf.add(jp);
         jf.setVisible(true);
-        jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        jf.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
     }
 }
