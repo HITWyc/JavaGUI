@@ -30,3 +30,7 @@ V
 &src/main/java/com/wyc/JFrameTest5.java,c\c\cc36928ac82fb479abc81e0b17b28d3435c6cfbe
 V
 &src/main/java/com/wyc/JFrameTest6.java,5\a\5a796c87db7562f8c21dc912f574aac7335dad49
+V
+&src/main/java/com/wyc/JFrameTest7.java,8\3\8337c279f3f2d5889427cd5095aa1b8469a3d5dc
+V
+&src/main/java/com/wyc/JFrameTest8.java,2\4\2482f59182a54d858ed698edf1728f4dc9bc6afd
