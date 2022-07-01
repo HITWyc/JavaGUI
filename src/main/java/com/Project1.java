@@ -40,8 +40,7 @@ public class Project1 {
                     ResultSet rs = statement.executeQuery("select * from user");
                 } catch (Exception ex) {
                     ex.printStackTrace();
-                }
-                finally {
+                } finally {
                     try {
                         MysqlUtil.close();
                     } catch (SQLException throwables) {
